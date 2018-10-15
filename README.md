@@ -1,4 +1,4 @@
-//README.md
+Reminder Application to add, edit and delete reminders
 
 Requirements:
 
